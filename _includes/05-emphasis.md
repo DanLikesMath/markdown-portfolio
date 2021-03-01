@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Skills:
+- _**GitHub** (Novice)_
+- _**Math** (Guru)_
+- _**Spelling My Name** (Guru)_
